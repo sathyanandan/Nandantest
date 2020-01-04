@@ -8,5 +8,7 @@ kheer
 pasta
 bonda
 
+pizza
+pasta
 
 thanks you
